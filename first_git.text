@@ -22,3 +22,7 @@ gitの差分を表示
 
 ・git remote add
 ローカルリポジトリをリモートリポジトリに登録する
+
+・git push
+githubにpushする際のコマンド
+S
