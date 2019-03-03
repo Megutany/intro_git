@@ -9,3 +9,12 @@ gitをコミットするためのコマンド
 
 ・git rm
 Gitを削除するためのコマンド
+
+・git log
+・git log --oneline
+・git log -p
+・git log -n 3
+Gitのログを表示
+
+・git diff
+Gitの差分を表示
