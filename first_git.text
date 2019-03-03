@@ -8,13 +8,17 @@ gitをステージングエリアに移行させるためのコマンド
 gitをコミットするためのコマンド
 
 ・git rm
-Gitを削除するためのコマンド
+gitを削除するためのコマンド
 
 ・git log
 ・git log --oneline
 ・git log -p
 ・git log -n 3
-Gitのログを表示
+gitのログを表示
 
 ・git diff
-Gitの差分を表示
+・git diff HEAD
+gitの差分を表示
+
+・git remote add
+ローカルリポジトリをリモートリポジトリに登録する
